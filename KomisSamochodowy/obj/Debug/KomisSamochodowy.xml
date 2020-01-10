@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KomisSamochodowy
+</name>
+</assembly>
+<members>
+<member name="T:KomisSamochodowy.My.Resources.Resources">
+<summary>
+  Klasa zasobu wymagająca zdefiniowania typu do wyszukiwania zlokalizowanych ciągów itd.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.ResourceManager">
+<summary>
+Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.Culture">
+<summary>
+  Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+  przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources._500">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.Berlingo">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.C3">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.Jumper">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.klasaC">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.klasaE">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.mazda3">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.mazda6">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.mx5">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.panda">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.tipo">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
