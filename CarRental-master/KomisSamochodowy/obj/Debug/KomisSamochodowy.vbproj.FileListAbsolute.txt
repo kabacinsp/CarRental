@@ -22,3 +22,4 @@ C:\Users\KABACINSKIP\Music\CarRental-master\KomisSamochodowy\obj\Debug\KomisSamo
 C:\Users\KABACINSKIP\Music\CarRental-master\KomisSamochodowy\obj\Debug\KomisSamochodowy.pdb
 C:\Users\KABACINSKIP\Music\CarRental-master\KomisSamochodowy\obj\Debug\KomisSamochodowy.Form1.resources
 C:\Users\KABACINSKIP\Music\CarRental-master\KomisSamochodowy\obj\Debug\KomisSamochodowy.Form2.resources
+C:\Users\KABACINSKIP\Music\CarRental-master\KomisSamochodowy\obj\Debug\KomisSamochodowy.Form3.resources
