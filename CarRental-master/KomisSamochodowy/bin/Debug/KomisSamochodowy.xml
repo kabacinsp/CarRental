@@ -22,52 +22,77 @@ KomisSamochodowy
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
-<member name="P:KomisSamochodowy.My.Resources.Resources._500">
+<member name="P:KomisSamochodowy.My.Resources.Resources._5001">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:KomisSamochodowy.My.Resources.Resources.Berlingo">
+<member name="P:KomisSamochodowy.My.Resources.Resources.a3">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:KomisSamochodowy.My.Resources.Resources.C3">
+<member name="P:KomisSamochodowy.My.Resources.Resources.a4">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:KomisSamochodowy.My.Resources.Resources.Jumper">
+<member name="P:KomisSamochodowy.My.Resources.Resources.a6">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:KomisSamochodowy.My.Resources.Resources.klasaC">
+<member name="P:KomisSamochodowy.My.Resources.Resources.Auris">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:KomisSamochodowy.My.Resources.Resources.klasaE">
+<member name="P:KomisSamochodowy.My.Resources.Resources.Aygo">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:KomisSamochodowy.My.Resources.Resources.mazda3">
+<member name="P:KomisSamochodowy.My.Resources.Resources.Berlingo1">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:KomisSamochodowy.My.Resources.Resources.mazda6">
+<member name="P:KomisSamochodowy.My.Resources.Resources.c3">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:KomisSamochodowy.My.Resources.Resources.mx5">
+<member name="P:KomisSamochodowy.My.Resources.Resources.download">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:KomisSamochodowy.My.Resources.Resources.panda">
+<member name="P:KomisSamochodowy.My.Resources.Resources.Jumper1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.Klasa_C">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.Klasa_E">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.Mazda_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.Mazda_MX_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.Panda">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
@@ -77,7 +102,47 @@ KomisSamochodowy
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:KomisSamochodowy.My.Resources.Resources.tipo">
+<member name="P:KomisSamochodowy.My.Resources.Resources.samochod2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.Series_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.Series_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.starempty2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.stars">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.stars1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.Tipo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.X3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KomisSamochodowy.My.Resources.Resources.Yaris">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
